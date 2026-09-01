@@ -1,5 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Ced! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+---
+
+### 👨‍💻 A Little About Me
+
+I am a developer passionate about building web and mobile applications. I enjoy working with full-stack technologies, diving deep into and exploring new technologies that help with my development.
+
+*   **🔭 Currently working on:** **Fihh** — A dedicated discussion platform for the aquaculture and fish hobbyist community - https://github.com/CedBisaya/Fihh
+*   **🔭 Currently working on:** **trabahuu** — A job application tracker
+*   **🌱 Currently learning:** React and React Native
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, Alpine.js, Livewire, PHP, Laravel, MySQL, C#, C, Java, Flutter, Figma
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
+
+*   **Email:** sedorikku87@gmail.com
 <!--
 **CedBisaya/CedBisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
