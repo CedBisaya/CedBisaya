@@ -21,7 +21,7 @@ I am a developer passionate about building web and mobile applications. I enjoy 
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
 
-* **Email:**[sedorikku87@gmail.com](mailto:sedorikku87@gmail.com)
+* **Email:** [sedorikku87@gmail.com](mailto:sedorikku87@gmail.com)
 <!--
 **CedBisaya/CedBisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
