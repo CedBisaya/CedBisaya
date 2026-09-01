@@ -1,6 +1,5 @@
-## Hi there 👋, I'm Ced! 👋
+## Hi there 👋, I'm Ced!
 
----
 
 ### 👨‍💻 A Little About Me
 
