@@ -7,7 +7,7 @@
 I am a developer passionate about building web and mobile applications. I enjoy working with full-stack technologies, diving deep into and exploring new technologies that help with my development.
 
 *   **🔭 Currently working on:** **Fihh** — A dedicated discussion platform for the aquaculture and fish hobbyist community - https://github.com/CedBisaya/Fihh
-*   **🌱 Currently learning:** React and React Native
+*   **🌱 Currently learning:** PostgreSQL
 
 ---
 
