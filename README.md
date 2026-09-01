@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ced! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=CedBisaya&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
